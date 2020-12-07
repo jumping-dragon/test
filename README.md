@@ -34,7 +34,7 @@ Some Word
 
 <code>code</code>
 
-```
+```javascript
 var code = 100;
 var code = 100;
 var code = 100;
