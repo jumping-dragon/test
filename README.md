@@ -36,10 +36,16 @@ Some Word
 
 ```
 var code = 100;
+var code = 100;
+var code = 100;
+var code = 100;
 ```
 
 <pre>
   <code>
+    var code = 100;
+    var code = 100;
+    var code = 100;
     var code = 100;
   </code>
 </pre>
