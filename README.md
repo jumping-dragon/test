@@ -1,33 +1,43 @@
 # eLearning
+
 <h1>eLearning</h1>
 
 ## Lab
+
 <h2>Some</h2>
 
 ### AI 101
+
 <h3>AI 101</h3>
 
 Some Word
+
 <p>Some Word</p>
 
 *italic*
+
 <em>italic</em>
 
 **bold**
+
 <strong>bold</strong>
 
 ***bold and italic***
+
 <em><strong>bold and italic</strong></em>
 
 [link](http://www.google.com)
+
 <a href="http://www.google.com">link</a>
 
 `code`
+
 <code>code</code>
 
 ```
 var code = 100;
 ```
+
 <pre>
   <code>
     var code = 100;
@@ -35,6 +45,7 @@ var code = 100;
 </pre>
 
 > blockquote
+
 <blockquote>
   blockquote
 </blockquote>
@@ -42,6 +53,7 @@ var code = 100;
 * Item1
 * Item2
 * Item3
+
 <ul>
   <li>Item1</li>
   <li>Item2</li>
@@ -51,6 +63,7 @@ var code = 100;
 1. Item1
 2. Item2
 3. Item3
+
 <ol>
   <li>Item1</li>
   <li>Item2</li>
